@@ -180,17 +180,15 @@ We use R to compute the number of possible rearrangements of these *6 digits*. T
 
 
 ```{r}
-# 5ai. count
 factorial(6)
-# 5aii. simulate
+
 set.seed(1005844909)
 sample(c(1, 2, 3, 4, 5, 6))
 ```
 
 We use R to compute the number of ways *3 digits* can be randomly selected from the *6 digits* one at a time without replacement. Then, we use R code to simulate one repetition of this experiment. ```{r}
-# 5bi. count
 choose(6, 3)
-# 5bii. simulate
+
 set.seed(1005844909)
 sample(6, 3, replace=FALSE)
 ```
@@ -198,10 +196,8 @@ sample(6, 3, replace=FALSE)
 We use R to compute the number of ways sets of *2 digits* can be selected at random from the *6 digits*. Then, we use R code to simulate one repetition of this experiment. 
 
 ```{r}
-# 5ci. count
 choose(6, 2)
 
-# 5cii. simulate
 set.seed(1005844909)
 sample(6, 2, replace=TRUE)
 ```
