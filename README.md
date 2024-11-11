@@ -1,4 +1,4 @@
-# Estimating Probabilities via Simulation in R
+# Estimating Probabilities via Simulation in R [October 2023]
 
 Welcome to my project where I explore RStudio's powerful capabilities and delve into the world of probability estimation using simulation. This project is a deep dive into the fundamentals of R programming, reproducible workflows, and the statistical concepts that shape data science.
 
