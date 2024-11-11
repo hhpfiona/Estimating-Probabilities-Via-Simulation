@@ -1,9 +1,9 @@
 # Estimating Probabilities via Simulation in R
 
-Welcome to my personal project where I explore RStudio's powerful capabilities and delve into the world of probability estimation using simulation. This project is a deep dive into the fundamentals of R programming, reproducible workflows, and the statistical concepts that shape data science.
+Welcome to my project where I explore RStudio's powerful capabilities and delve into the world of probability estimation using simulation. This project is a deep dive into the fundamentals of R programming, reproducible workflows, and the statistical concepts that shape data science.
 
 ## Project Overview
-This repository contains R Markdown (.Rmd) and PDF files that detail simulations and experiments designed to estimate probabilities in fun and educational ways. Throughout this project, I use R to simulate random events, test outcomes, and explore concepts like fair and weighted die rolls, conditional probabilities, and combinatorial problems.
+This repository contains R Markdown (.Rmd) that detail simulations and experiments designed to estimate probabilities in fun and educational ways. Throughout this project, I use R to simulate random events, test outcomes, and explore concepts like fair and weighted die rolls, conditional probabilities, and combinatorial problems.
 
 ### What's Inside?
 - **R Code Demonstrations**: From simulating fair coin tosses to rolling a six-sided die thousands of times, I've coded simple yet enlightening experiments that illustrate the beauty of randomness and probability estimation.
